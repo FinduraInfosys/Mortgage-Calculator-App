@@ -14,11 +14,6 @@ To make this app a game-changer, we've outlined some essential requirements:
 6. **Loan Amount Calculation:** Automatically calculate and display the loan amount (purchase price - down payment).
 7. **Monthly EMI Estimate:** Display the estimated monthly amount users will pay.
 
-## Example UI
-Feel free to customize the UI, but here's a simple example to get you started:
-
-[UI Example Image]
-
 ## Suggested Implementation
 You have the flexibility to implement this project using various technologies. For cross-platform apps, we recommend using Flutter, which provides a seamless user experience across different devices.
 
